@@ -1,15 +1,13 @@
 - 👋 Hi, I’m Hammad Mahmood
-- 👀 I’m interested in QA Automation
-- 🌱 I’m currently learning new automation techniques
+- 🚀 I have 4.5 years of experience in QA Automation using Playwright, Cypress, and Selenium, and a total of 8 years of experience in Software QA.
+- 🪄 I use Copilot to improve code quality and ChatGPT and Gimini to get help in writing complex scripts and testing documentation.
+- 👀 I’m interested in QA Automation.
+- 🌱 I am always interested in learning new automation techniques and tools.
 - 💞️ I’m looking to collaborate on international projects
+- 💻 Tech Stack: Playwright, Cypress, Selenium, TestIM.io, JMeter, Locust, Jenkins, Github, JavaScript, TypeScript, and Java.
 - 📫 How to reach me?
 - Email: hammad6@outlook.com
 - WhatsApp: +923322220706
 - LinkedIn: https://www.linkedin.com/in/hammad-mahmood-fullstack-qa-engineer/
-- Visit my website: https://portfolio-hammadmahmood.my.canva.site/
-- Let's connect!
-
-<!---
-hammad1822/hammad1822 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Visit my website: https://portfolio-hammadmahmood.my.canva.site/ | https://abchammad.my.canva.site/hammad-playwright-portfolio
+- Let's connect and build something amazing together. 
